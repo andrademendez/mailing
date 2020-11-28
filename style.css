@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css?family=Proxima+Nova');
+        body {
+            font-family: 'proxima-nova', sans-serif;
+        }
+        
+        .sccx-header {
+            text-align: center;
+        }
+        
+        .uk-container-primary {
+            padding-left: 40px;
+            padding-right: 40px;
+        }
+        
+        .sccx-color-yellow {
+            text-align: center;
+            font-family: 'proxima-nova', sans-serif;
+            color: rgb(245, 171, 12);
+            font-weight: 600;
+        }
+        
+        .sccx-section {
+            padding: 30px 50px;
+        }
+        
+        .sccx-section-secondary {
+            background-color: rgb(0, 0, 0);
+        }
+        
+        .sccx-section-primary {
+            background-color: rgb(255, 196, 0);
+        }
+        
+        .sccx-section p {
+            color: rgb(255, 255, 255);
+            text-align: justify;
+            font-size: 16px;
+        }
+        
+        .sccx-section-header {
+            text-align: center;
+            color: rgb(0, 0, 0);
+            font-family: 'proxima-nova', sans-serif;
+        }
+        
+        .sccx-section-header h2 {
+            font-size: 36px;
+            font-weight: 600;
+            font-family: 'proxima-nova', sans-serif;
+            color: rgb(0, 0, 0);
+        }
+        
+        .sccx-section img {
+            width: 50%;
+        }
+        
+        .sccx-text-30 {
+            color: rgb(255, 255, 255);
+            font-size: 25px;
+            font-family: 'proxima-nova', sans-serif;
+        }
+        
+        .sccx-text-20 {
+            color: rgb(255, 255, 255);
+            font-size: 18px;
+            font-family: 'proxima-nova', sans-serif;
+        }
+        
+        .sccx-card {
+            padding-bottom: 20px;
+        }
+        
+        .sccx-footer {
+            text-align: center;
+        }
+        
+        .sccx-footer h5 {
+            font-size: 24px;
+            color: rgb(255, 255, 255);
+        }
+        
+        .hastag {
+            font-size: 24px;
+            color: rgb(231, 186, 36);
+        }
